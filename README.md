@@ -7,7 +7,7 @@ Stock analysis with VBA
 The purpose of this project was to refactor a VBA code to gather stock information for the years 2017-2018 and to determine whether or not the stocks are good investsments.
 
 ## Data ##
-The data shown includes two charts with stock performances for the years 2017-2018 on 12 different stocks. The charts give you the *Ticker, Total Daily Volume,* and the yearly *return* from the stocks.
+The data shown includes two charts with stock performances for the years 2017-2018 on 12 different stocks. The charts give you the **Ticker, Total Daily Volume,** and the yearly **return** from the stocks.
 
 Results
 Analysis
