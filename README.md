@@ -1,7 +1,7 @@
 # VBA_Challenge
 Stock analysis with VBA
 
-# Overview of Project #
+## Overview of Project ##
 
 The purpose of this project was to refactor a VBA code to gather stock information for the years 2017-2018 and to determine whether or not the stocks are good investsments.
 
@@ -147,5 +147,6 @@ End Sub
 
 <img width="1123" alt="Screen Shot 2022-08-24 at 4 27 52 PM" src="https://user-images.githubusercontent.com/110702997/186527760-d0f6fde3-adc2-43da-b9ed-3b716d385023.png">
 
-
-
+## Summary ##
+# Pros and Cons #
+Refactoring is going over code and cleaning it up by fixing code to make it run more efficiently. There are plenty of ways to code and get the same end result but that code may not always work when you want to apply new data to it. Thats when going over someone else's code and refactoring it can be a huge advantage. The original person making the code may have overlooked something and got lucky. Cleaning up the code makes it easier to look at and get a better understanding of whats taking place and could lead to faster programming when dealing with larger datasets. However, a disadvatage that may come from refactoring may be
